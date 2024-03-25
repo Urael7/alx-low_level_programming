@@ -1,2 +1,2 @@
-0x07. C - Even more pointers, arrays and strings
-C
+No one ever read my readme file
+
