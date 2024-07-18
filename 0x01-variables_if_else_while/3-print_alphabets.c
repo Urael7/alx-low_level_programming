@@ -2,6 +2,8 @@
 /*
  * main - Entry point
  *
+ * Discrition- displays both the capital and small letters and finally ends with new line
+ *
  * Return - Always 0 (success)
 */
 
