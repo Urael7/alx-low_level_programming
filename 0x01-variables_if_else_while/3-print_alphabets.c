@@ -1,9 +1,7 @@
 #include<stdio.h>
 /*
  * main - Entry point
- *
- * Discrition- displays both the capital and small letters and finally ends with new line
- *
+ * Description- displays both the capital and small letters.
  * Return - Always 0 (success)
 */
 
