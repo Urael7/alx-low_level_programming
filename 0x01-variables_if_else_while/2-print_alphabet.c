@@ -4,15 +4,16 @@
  *main - Entry point
  *
  * Return - Always 0 (success)
- * */
+ */
 int main(void)
 {
 	char a = 'a';
 
 	while (a <='z')
 	{
-		printf("%c \n", a);
+		printf("%c", a);
 		a++;
 	}
-return 0; 
+printf("\n");
+return (0);
 }
