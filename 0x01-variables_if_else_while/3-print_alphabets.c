@@ -10,12 +10,12 @@ int main(void)
 	char a = 'a';
 	char A = 'A';
 
-	while ( a <= 'z' )
+	while (a <= 'z')
 	{
 	printf("%c", a);
 	a++;
 	}
-	while ( A <= 'Z' )
+	while (A <= 'Z')
 	{
 	printf("%c", A);
 	A++;
