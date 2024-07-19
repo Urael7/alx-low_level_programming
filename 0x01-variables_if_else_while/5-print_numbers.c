@@ -1,15 +1,15 @@
 #include<stdio.h>
 /*
- * Main - Entry point
- *
+ * main - main function of the code
  * Return - Always 0 (success)
 */
 int main(void)
 {
 	int num = 0;
+
 	while (num < 10)
 	{
-	printf("%d", num);
+	printf("%d ", num);
 	num++;
 	}
 printf("\n");
