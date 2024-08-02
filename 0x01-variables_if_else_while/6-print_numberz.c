@@ -4,6 +4,7 @@
  *main - Entry point
  *Return - Always 0 (success)
  */
+/*the code prints the number from 0 upto 9*/
 
 int main(void)
 {
